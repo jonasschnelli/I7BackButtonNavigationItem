@@ -101,9 +101,9 @@
 	CGFloat width = round(point.x)-10;
 	
 	/* draw images */
-	CGContextDrawImage(context, CGRectMake(0,0,CGImageGetWidth(leftPart),CGImageGetHeight(leftPart)), leftPart);
-	CGContextDrawImage(context, CGRectMake(CGImageGetWidth(leftPart),0,width,CGImageGetHeight(middlePart)), middlePart);
-	CGContextDrawImage(context, CGRectMake(CGImageGetWidth(leftPart)+width,0,CGImageGetWidth(rightPart),CGImageGetHeight(rightPart)), rightPart);
+	CGContextDrawImage(context, CGRectMake(0,0,14,30), leftPart);
+	CGContextDrawImage(context, CGRectMake(14,0,width,30), middlePart);
+	CGContextDrawImage(context, CGRectMake(14+width,0,5,30), rightPart);
 	
 	/* draw text */
 	CGContextSetTextDrawingMode(context, kCGTextFill);
