@@ -4,11 +4,13 @@ Use I7BackButtonNavigationItem to create a custom back navigation button with ni
 
 Version
 =======
-0.1
+0.11
 
 Changelog
 ==========
-01/27/2010 – Version 0.1 - package started
+10/28/2010 – Version 0.11 - String Encoding Fix!
+10/20/2010 – Version 0.1 - package started
+
 
 Author
 ======

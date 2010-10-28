@@ -333,7 +333,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E5E1F287125A1F7C00947557</string>
+										<string>E5CD13F4127956450019011C</string>
 										<key>history</key>
 										<array>
 											<string>E5293F0C125A190C008E4AE3</string>
@@ -343,7 +343,7 @@
 											<string>E5293F94125A1AFB008E4AE3</string>
 											<string>E5293FCC125A1C0D008E4AE3</string>
 											<string>E5293FCD125A1C0D008E4AE3</string>
-											<string>E5293FD8125A1C7D008E4AE3</string>
+											<string>E5A472BB12795622005BB113</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -357,18 +357,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1348, 772}}</string>
+								<string>{{0, 0}, {1348, 760}}</string>
 								<key>RubberWindowFrame</key>
 								<string>1680 55 1680 995 1680 0 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>772pt</string>
+							<string>760pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>177pt</string>
+							<string>189pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -382,7 +382,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1348, 150}}</string>
+										<string>{{10, 27}, {1348, 162}}</string>
 										<key>RubberWindowFrame</key>
 										<string>1680 55 1680 995 1680 0 1680 1050 </string>
 									</dict>
@@ -466,11 +466,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>E5E1F270125A1E9400947557</string>
+				<string>E5CD13F5127956450019011C</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>E5E1F271125A1E9400947557</string>
+				<string>E5CD13F6127956450019011C</string>
 				<string>E5293ED0125A17DD008E4AE3</string>
-				<string>E5E1F272125A1E9400947557</string>
+				<string>E5CD13F7127956450019011C</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -619,14 +619,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>E5E1F273125A1E9400947557</string>
+				<string>E5E1F3F1125A218700947557</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>E5E1F274125A1E9400947557</string>
-				<string>E5E1F275125A1E9400947557</string>
-				<string>E5E1F276125A1E9400947557</string>
-				<string>E5E1F277125A1E9400947557</string>
-				<string>E5E1F278125A1E9400947557</string>
+				<string>E5E1F3F2125A218700947557</string>
+				<string>E5E1F3F3125A218700947557</string>
+				<string>E5E1F3F4125A218700947557</string>
+				<string>E5E1F3F5125A218700947557</string>
+				<string>E5E1F3F6125A218700947557</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -660,9 +660,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>E5E1F288125A1F7C00947557</string>
-		<string>E5E1F284125A1F6A00947557</string>
-		<string>E5E1F27A125A1E9400947557</string>
 		<string>/Users/jonasschnelli/Documents/Dev iPhone/I7BackButtonNavigationItem/I7BackButtonNavigationItem/I7BackButtonNavigationItem.xcodeproj</string>
 	</array>
 	<key>WindowString</key>

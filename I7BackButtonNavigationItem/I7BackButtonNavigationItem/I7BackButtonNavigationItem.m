@@ -95,7 +95,7 @@
 	CGContextSetRGBFillColor(context, 1.0, 1.0, 1.0, 1.0);
 	CGContextSelectFont(context, "Helvetica Bold", 12.0, kCGEncodingMacRoman);	
 	CGContextSetTextDrawingMode(context, kCGTextInvisible);
-	CGContextShowTextAtPoint(context, 11.0, 11.0, [self.text cStringUsingEncoding:NSUTF8StringEncoding], self.text.length);
+	CGContextShowTextAtPoint(context, 11.0, 11.0, [self.text cStringUsingEncoding:NSMacOSRomanStringEncoding], self.text.length);
 	CGPoint point = CGContextGetTextPosition(context);
 	
 	CGFloat width = round(point.x)-10;
@@ -107,7 +107,7 @@
 	
 	/* draw text */
 	CGContextSetTextDrawingMode(context, kCGTextFill);
-	CGContextShowTextAtPoint(context, 11.0, 11.0, [text cStringUsingEncoding:NSUTF8StringEncoding], text.length);
+	CGContextShowTextAtPoint(context, 11.0, 11.0, [text cStringUsingEncoding:NSMacOSRomanStringEncoding], text.length);
 }
 
 - (void) touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
